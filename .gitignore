@@ -1,0 +1,12 @@
+config.php
+config.prod.php
+config.server.php
+includes/auth_config.php
+*.bat
+*.sh
+*.ps1
+cloudflared.exe
+ngrok.exe
+data/
+loot/
+uploads/
